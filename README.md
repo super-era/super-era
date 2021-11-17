@@ -4,7 +4,7 @@
 
 📚 I'm currently reading about how AI/machine learning can lead to more accurate patient diagnosis, treatment and better outcomes.
 
-🌱 I’m currently learning C#, Java and Dart, as well as HTML/CSS/JS.
+🌱 I’m currently learning C#, Java and Dart/Flutter, as well as HTML/CSS/JS.
 
 <!---
 super-era/super-era is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
