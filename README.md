@@ -1,10 +1,10 @@
 👋 Hi, I’m @super-era!
 
-👀 I’m interested in web and app development.
+👀 I’m a junior data engineer with an interest in infrastructure.
 
-📚 I'm currently reading about how AI/machine learning can lead to more accurate patient diagnosis, treatment and better outcomes.
+📚 I'm currently reading about data warehousing techniques.
 
-🌱 I’m currently learning Java, Dart/Flutter and C#, as well as HTML/CSS/JS and Ruby on Rails.
+🌱 I’m currently learning about AWS, and I hope to get my Cloud Practitioner cert in the near future.
 
 <!---
 super-era/super-era is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
