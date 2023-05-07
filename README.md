@@ -4,7 +4,7 @@
 
 📚 I'm currently reading about agile data warehouse design!
 
-🌱 I’ve achieved my Cloud Practitioner certification, and am considering  I am now learning more about the DBT framework.
+🌱 I am currently learning more about the DBT framework.
 
 <!---
 super-era/super-era is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
